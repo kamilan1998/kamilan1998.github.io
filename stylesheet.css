@@ -1,0 +1,24 @@
+img{
+
+	width: 200px;
+	height: 300px;
+}
+body{
+	background-color: black;
+background-image: url('https://qph.ec.quoracdn.net/main-qimg-f41db4522ff1015bc982c6f50f7653d0-c') ;
+}
+p{
+font-size: 12pt;
+	font-family: verdana ;
+	color:yellow;
+	text-align: left;
+}
+button{background-color: pink;
+border:0px;
+border-radius: 70%}
+li{
+	color:pink;
+}
+h1 {
+	color: purple;
+}
